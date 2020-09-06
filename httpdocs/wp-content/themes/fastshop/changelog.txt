@@ -1,0 +1,113 @@
+Version 1.1.9
+UPDATE  :
+- Update Megamenu
+- Update New Plugin Import
+FIXED   :
+- Search Form of Header has none on Mobile Device
+----------------------------------------------
+Version 1.1.8
+UPDATE  :
+- Update template supports WooCommerce v3.4.0
+FIXED   :
+- Css of Product style 10 when hover
+- Quickview error show
+- Css of Single Product Tabs on RTL version
+- Css Woocommerce Store Notice
+----------------------------------------------
+Version 1.1.7
+FIXED   :
+- Instagram shortcode
+- CSS Widget Category Product
+----------------------------------------------
+Version 1.1.6
+FIXED   :
+- Google map shortcode.
+----------------------------------------------
+Version 1.1.5
+UPDATE   :
+- Update template supports WooCommerce
+----------------------------------------------
+Version 1.1.4
+UPDATE   :
+- Fastshop Toolkit v1.0.8 - Fix Widget product
+FIX      :
+- Some host can't access customizer and widget
+----------------------------------------------
+Version 1.1.3
+FIXED   :
+- Menu Resize
+UPDATE FILE:
+- /wp-content/themes/fastshop/assets/js/functions.js
+----------------------------------------------
+Version 1.1.2
+UPDATE   :
+- Fastshop Toolkit v1.0.7 - Update content import
+UPDATE FILE:
+- /wp-content/plugins/fastshop-toolkit/fastshop-toolkit.php
+- /wp-content/plugins/fastshop-toolkit/includes/classes/fastshop-importer
+- /wp-content/themes/fastshop/assets/css/style.css
+- /wp-content/themes/fastshop/framework/settings/plugins-load.php
+----------------------------------------------
+Version 1.1.1
+FIXED   :
+- Validation error placeholder image lazy
+----------------------------------------------
+Version 1.1.0
+UPDATE  :
+- Fastshop Toolkit v1.0.6
+- Fastshop Child Theme v1.0.1
+- Lazy css, lazy js
+FIXED   :
+- Fix plugin don't get file language
+----------------------------------------------
+Version 1.0.9
+UPDATE  :
+- Crack View in IE
+----------------------------------------------
+Version 1.0.8
+UPDATE  :
+- View mini cart in firefox
+UPDATE  :
+- Plugin Fastshop Toolkit v1.0.5
+----------------------------------------------
+Version 1.0.7
+UPDATE  :
+- Warning when hover button add to cart in variable product.
+- Optimize Speed theme when turn on Lazy Load option.
+- Plugin Fastshop Toolkit v1.0.4
+----------------------------------------------
+Version 1.0.6
+FIXED   :
+- Fix Lazy slow
+----------------------------------------------
+Version 1.0.5
+UPDATE  :
+- Plugin Fastshop Toolkit v1.0.3
+FIXED   :
+- Option sidebar single product no dependency
+----------------------------------------------
+Version 1.0.4
+UPDATE  :
+- Support Right To Left.
+- Add 2 style Blog: Blog Grid Filter, Blog Masonry.
+- Include Plugin fastshop-import to fastshop-toolkit
+- Plugin Fastshop Toolkit v1.0.2
+----------------------------------------------
+Version 1.0.3
+NEXT    :
+- rtl Coming Soon
+UPDATE  :
+- Plugin fastshop-import v1.0.1
+----------------------------------------------
+Version 1.0.2
+
+UPDATE  :
+- Optimize Plugin and Theme, add 3 Product style
+----------------------------------------------
+Version 1.0.1
+UPDATE  :
+- Countdown in single product
+----------------------------------------------
+Version 1.0.0
+----------------------------------------------
+Initial release

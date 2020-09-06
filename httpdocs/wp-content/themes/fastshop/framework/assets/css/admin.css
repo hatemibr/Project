@@ -1,0 +1,250 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+.wpb_fastshop_tabs > .vc_controls, .wpb_fastshop_accordions > .vc_controls {
+    opacity: 1 !important;
+    filter: alpha(opacity=100) !important;
+    visibility: visible;
+    position: relative;
+    height: 23px;
+    margin: 18px 0 2px;
+    border: 1px dotted #e6e6e6;
+    border-bottom-width: 0;
+}
+.wpb_fastshop_tabs.vc_shortcodes_container, .wpb_fastshop_accordions.vc_shortcodes_container {
+    background: 0 0;
+}
+.wpb_fastshop_tabs.vc_general .vc_tta-tab > a, .wpb_fastshop_accordions.vc_general .vc_tta-tab > a {
+    padding: 10px 14px;
+}
+.wpb_el_type_taxonomy .chosen-container {
+    min-width: 200px;
+    width: 100% !important;
+}
+.wpb_el_type_taxonomy .chosen-container-multi .chosen-choices li.search-field input[type="text"] {
+    height: auto;
+}
+/* WELCOME STYLE */
+.fastshop-wrap .nav-tab.active {
+    background-color: #fff;
+    color: #444;
+}
+.fastshop-wrap .nav-tab:first-child {
+    margin-left: 0;
+}
+#tabs-container .tab-content {
+    overflow: hidden;
+    padding-top: 30px;
+}
+.fastshop-wrap .rp-row {
+    margin: 0 auto;
+    display: table;
+}
+.fastshop-wrap .rp-col {
+    box-sizing: border-box;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+}
+.fastshop-wrap .support-tabs .rp-col {
+    display: table-cell;
+    vertical-align: top;
+}
+.fastshop-wrap .plugins .plugin {
+    position: relative;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #ddd;
+    -webkit-box-shadow: 0 1px 1px -1px rgba(0, 0, 0, .1);
+    box-shadow: 0 1px 1px -1px rgba(0, 0, 0, .1);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-bottom: 30px;
+    background-color: #fff;
+}
+.fastshop-wrap .plugins .plugin .preview {
+    float: none;
+    padding: 10px;
+}
+.fastshop-wrap .plugins .plugin .preview img {
+    width: 100%;
+    height: auto;
+}
+.fastshop-wrap .plugins .plugin .plugin-name,
+.fastshop-wrap .plugins .plugin .actions {
+    margin: 0;
+    padding: 20px 10px;
+    -webkit-box-shadow: inset 0 1px 0 rgba(0, 0, 0, .1);
+    box-shadow: inset 0 1px 0 rgba(0, 0, 0, .1);
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    background: #fff;
+    width: 100%;
+    float: left;
+    display: block;
+    
+}
+.fastshop-wrap .plugins .plugin h3 {
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0;
+}
+.fastshop-wrap .plugins .plugin .actions .button {
+    display: none;
+}
+.fastshop-wrap .plugins .plugin.plugin-inactive .actions .button-activate-plugin,
+.fastshop-wrap .plugins .plugin.plugin-update .button-update-plugin,
+.fastshop-wrap .plugins .plugin.not-intall .actions .button-install-plugin,
+.fastshop-wrap .plugins .plugin.is-active .actions .button-uninstall-plugin,
+.fastshop-wrap .plugins .plugin.no-intall .actions .button-install-plugin {
+    display: inline-block;
+}
+.fastshop-wrap .support-item {
+    background-color: #fff;
+    padding: 10px;
+    position: relative;
+}
+.fastshop-wrap .coming-soon::before {
+    background: rgba(255, 255, 255, .8);
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    position: absolute;
+    content: '';
+    display: inline-block;
+}
+.fastshop-wrap .coming-soon::after {
+    content: 'COMING SOON';
+    top: 50%;
+    left: 50%;
+    font-size: 12px;
+    letter-spacing: 3px;
+    white-space: nowrap;
+    background: #000;
+    color: #fff;
+    padding: 3px 10px;
+    z-index: 2;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+@media (max-width: 1200px) {
+    .fastshop-wrap .rp-col {
+        -ms-flex-preferred-size: 33.333333%;
+        -webkit-flex-basis: 33.333333%;
+        flex-basis: 33.333333%;
+        max-width: 33.333333%;
+    }
+}
+@media (max-width: 991px) {
+    .fastshop-wrap .rp-col {
+        -ms-flex-preferred-size: 50%;
+        -webkit-flex-basis: 50%;
+        flex-basis: 50%;
+        max-width: 50%;
+    }
+}
+@media (max-width: 767px) {
+
+}
+@media (max-width: 480px) {
+    .fastshop-wrap .rp-col {
+        -ms-flex-preferred-size: 100%;
+        -webkit-flex-basis: 100%;
+        flex-basis: 100%;
+        max-width: 100%;
+        
+    }
+}
+@media (max-width: 320px) {
+
+}
+#fastshop_testimonial_option:before,
+#fastshop_testimonial_option:after {
+    content: '';
+    display: table;
+}
+#fastshop_testimonial_option:after {
+    clear: both;
+}
+.fastshop-wrap .postbox .inside:before,
+.fastshop-wrap .postbox .inside:after {
+    content: '';
+    display: table;
+}
+.fastshop-wrap .postbox .inside:after {
+    clear: both;
+}
+.fastshop-wrap .inside {
+    clear: both;
+}
+.fastshop-wrap .dashboard-intro .image {
+    width: 50%;
+    float: left;
+    background-color: #fff;
+    padding: 10px;
+}
+.fastshop-wrap .dashboard-intro .intro {
+    overflow: hidden;
+    padding-left: 30px;
+}
+.fastshop-wrap .dashboard-intro .intro p {
+    font-size: 18px;
+    margin-top: 0;
+}
+.fastshop-wrap .dashboard-intro .intro a {
+    text-decoration: none;
+}
+.fastshop-wrap .dashboard-intro .intro h2 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+.fastshop-wrap .dashboard h1 {
+    font-size: 50px;
+}
+.fastshop-wrap .dashboard .about-text {
+    font-size: 18px;
+    max-width: 800px;
+    margin-bottom: 50px;
+    
+}
+.fastshop-wrap .nav-tab:focus, .fastshop-wrap .nav-tab:hover {
+    background-color: transparent;
+}
+.fastshop-wrap .plugins .plugin .plugin-name, .fastshop-wrap .plugins .plugin .actions {
+    float: right;
+}
+/* MEGAMENU */
+.menu-item-settings {
+    overflow: hidden;
+}
+.container-megamenu .cs-element {
+    padding: 0 0 20px;
+}
+.cs-field-icon i::before,
+.cs-icon i::before {
+    margin-left: 0;
+}
+.cs-taxonomy.container-megamenu {
+    background-color: #fafafa;
+    border: 1px solid #dfdfdf;
+    box-shadow: 0 0 4px #ddd;
+    margin: 10px 10px 10px 0;
+    padding: 10px;
+    display: block;
+    overflow: hidden;
+}
+.container-megamenu .row_label {
+    text-decoration: underline;
+    margin-bottom: 5px;
+    display: inline-block;
+}

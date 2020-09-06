@@ -1,0 +1,799 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-07 02:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: index.php:56
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: header.php:29
+msgid "Menu"
+msgstr ""
+
+#: searchform.php:16
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:18
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:19
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: 404.php:24
+msgid "Error"
+msgstr ""
+
+#: 404.php:25
+msgid " 404 "
+msgstr ""
+
+#: 404.php:26
+msgid "Not Found"
+msgstr ""
+
+#: 404.php:29
+msgid "We&acute;re sorry but the page you are looking for does nor exist."
+msgstr ""
+
+#: 404.php:30
+msgid "You could return to"
+msgstr ""
+
+#: 404.php:31
+msgid " Home page"
+msgstr ""
+
+#: 404.php:32
+msgid " or using"
+msgstr ""
+
+#: 404.php:33
+msgid " search!"
+msgstr ""
+
+#: content-none.php:2
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:6
+msgid "Ready to publish your first post?"
+msgstr ""
+
+#: content-none.php:6
+msgid "Get started here"
+msgstr ""
+
+#: content-none.php:8
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:11
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: page.php:50 templates/blog/blog-single.php:58
+#: templates/blog/blog-list.php:73
+msgid "Pages:"
+msgstr ""
+
+#: page.php:54
+msgid "Page"
+msgstr ""
+
+#: functions.php:72
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:73
+msgid "Vertical Menu"
+msgstr ""
+
+#: functions.php:74
+msgid "Top Right Menu"
+msgstr ""
+
+#: functions.php:129
+msgid "Widget Area"
+msgstr ""
+
+#: functions.php:131 functions.php:141 functions.php:151 functions.php:161
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: functions.php:139
+msgid "Shop Widget Area"
+msgstr ""
+
+#: functions.php:149
+msgid "Product Widget Area"
+msgstr ""
+
+#: functions.php:159
+msgid "Page Widget Area"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Open Sans, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:236
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: comments.php:26
+msgid "Your Comment:"
+msgstr ""
+
+#: comments.php:29
+msgid "Your Name:"
+msgstr ""
+
+#: comments.php:30
+msgid "Your Email:"
+msgstr ""
+
+#: comments.php:38
+msgid "submit"
+msgstr ""
+
+#: comments.php:39
+msgid "Leave your comment"
+msgstr ""
+
+#. %s: post title
+#: comments.php:52
+#, php-format
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:56
+#, php-format
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:76
+msgid "Comment Reply"
+msgstr ""
+
+#: comments.php:84 framework/includes/woo-functions.php:286
+msgid "Previous"
+msgstr ""
+
+#: comments.php:85 framework/includes/woo-functions.php:287
+msgid "Next"
+msgstr ""
+
+#: comments.php:94
+msgid "Comments are closed."
+msgstr ""
+
+#: template-parts/header-mini-cart.php:19
+#: template-parts/header-mini-cart.php:31
+#, php-format
+msgid "%1$s item(s) - "
+msgstr ""
+
+#: template-parts/header-mini-cart.php:22
+#, php-format
+msgid "%1$s item(s)"
+msgstr ""
+
+#: template-parts/header-mini-cart.php:24
+msgid "item(s)"
+msgstr ""
+
+#: template-parts/header-mini-cart.php:27
+msgid "Your Cart"
+msgstr ""
+
+#: template-parts/header-mini-cart.php:40
+#, php-format
+msgid "You have %1$s item(s) in your cart"
+msgstr ""
+
+#: template-parts/header-mini-cart.php:63
+#, php-format
+msgid "Quantity: %1$s"
+msgstr ""
+
+#: template-parts/header-mini-cart.php:71
+msgid "Remove this item"
+msgstr ""
+
+#: template-parts/header-mini-cart.php:83
+msgid "Total: "
+msgstr ""
+
+#: template-parts/header-mini-cart.php:89
+msgid "View Cart"
+msgstr ""
+
+#: template-parts/header-mini-cart.php:92
+msgid "Checkout"
+msgstr ""
+
+#: template-parts/header-mini-cart.php:99
+msgid "You have no item(s) in your cart"
+msgstr ""
+
+#: template-parts/part-breadcrumb.php:5
+#: framework/includes/woo-functions.php:383
+msgid "Return To Previous Page"
+msgstr ""
+
+#: template-parts/search-form.php:15
+msgid "All Categories"
+msgstr ""
+
+#: template-parts/search-form.php:90
+msgid "Search entire store here"
+msgstr ""
+
+#: template-parts/search-form.php:97
+msgid "Search for products..."
+msgstr ""
+
+#: template-parts/search-form.php:102
+msgid "Search ..."
+msgstr ""
+
+#: template-parts/search-form.php:142
+msgid "SEARCH"
+msgstr ""
+
+#: template-parts/popup-content.php:40
+msgid "Don&rsquo;t show this popup again"
+msgstr ""
+
+#: template-parts/header-userlink.php:45
+msgid "Hi, "
+msgstr ""
+
+#: template-parts/header-userlink.php:59
+msgid "Logout"
+msgstr ""
+
+#: template-parts/header-userlink.php:74
+msgid "Register / Sign in"
+msgstr ""
+
+#: template-parts/header-userlink.php:76
+msgid "Login"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#. Name of the template
+msgid "Box Page"
+msgstr ""
+
+#: woocommerce/content-product-list.php:50 templates/blog/blog-masonry.php:50
+#: templates/blog/blog-list.php:81
+#: templates/blog/blog-styles/content-blog-style-9.php:14
+#: templates/blog/blog-styles/content-blog-style-2.php:32
+#: templates/blog/blog-styles/content-blog-style-7.php:10
+#: templates/blog/blog-styles/content-blog-style-5.php:31
+msgid "..."
+msgstr ""
+
+#: templates/headers/header-style-16.php:74
+#: templates/headers/header-style-06.php:76
+#: templates/headers/header-style-12.php:54
+#: templates/headers/header-style-14.php:71
+#: templates/headers/header-style-11.php:53
+#: templates/headers/header-style-02.php:74
+msgid "Wishlist"
+msgstr ""
+
+#: templates/blog/blog-single.php:28 templates/blog/blog-masonry.php:43
+#: templates/blog/blog-grid.php:73 templates/blog/blog-grid.php:125
+#: templates/blog/blog-list.php:37
+msgid "posted by: "
+msgstr ""
+
+#: templates/blog/blog-single.php:35 templates/blog/blog-grid.php:80
+#: templates/blog/blog-grid.php:132 templates/blog/blog-list.php:44
+msgid "Sticky"
+msgstr ""
+
+#: templates/blog/blog-single.php:41 templates/blog/blog-list.php:51
+msgid "Categories:"
+msgstr ""
+
+#. %s: Name of current post
+#. %s: Name of current post
+#: templates/blog/blog-single.php:52 templates/blog/blog-list.php:67
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: templates/blog/blog-masonry.php:54 templates/blog/blog-list.php:88
+#: templates/blog/blog-list.php:94
+#: templates/blog/blog-styles/content-blog-style-9.php:17
+#: templates/blog/blog-styles/content-blog-style-2.php:34
+#: templates/blog/blog-styles/content-blog-style-8.php:34
+#: templates/blog/blog-styles/content-blog-style-7.php:13
+msgid "Read more"
+msgstr ""
+
+#: templates/blog/blog-masonry.php:60 templates/blog/blog-list.php:101
+#: templates/blog/blog-styles/content-blog-style-6.php:25
+#: templates/blog/blog-styles/content-blog-style-3.php:19
+#: templates/blog/blog-styles/content-blog-style-2.php:25
+#: templates/blog/blog-styles/content-blog-style-8.php:25
+#: templates/blog/blog-styles/content-blog-style-4.php:19
+#: templates/blog/blog-styles/content-blog-style-1.php:25
+#: templates/blog/blog-styles/content-blog-style-5.php:19
+msgid "0 Comment"
+msgstr ""
+
+#: templates/blog/blog-masonry.php:61 templates/blog/blog-list.php:102
+#: templates/blog/blog-styles/content-blog-style-6.php:26
+#: templates/blog/blog-styles/content-blog-style-3.php:20
+#: templates/blog/blog-styles/content-blog-style-2.php:26
+#: templates/blog/blog-styles/content-blog-style-8.php:26
+#: templates/blog/blog-styles/content-blog-style-4.php:20
+#: templates/blog/blog-styles/content-blog-style-1.php:26
+#: templates/blog/blog-styles/content-blog-style-5.php:20
+msgid "1 Comment"
+msgstr ""
+
+#: templates/blog/blog-masonry.php:62 templates/blog/blog-list.php:103
+#: templates/blog/blog-styles/content-blog-style-6.php:27
+#: templates/blog/blog-styles/content-blog-style-3.php:21
+#: templates/blog/blog-styles/content-blog-style-2.php:27
+#: templates/blog/blog-styles/content-blog-style-8.php:27
+#: templates/blog/blog-styles/content-blog-style-4.php:21
+#: templates/blog/blog-styles/content-blog-style-1.php:27
+#: templates/blog/blog-styles/content-blog-style-5.php:21
+msgid "% Comments"
+msgstr ""
+
+#: framework/includes/theme-functions.php:158
+msgid "Compare"
+msgstr ""
+
+#: framework/includes/woo-functions.php:197
+msgid "Print"
+msgstr ""
+
+#: framework/includes/woo-functions.php:200
+msgid "I wanted you to see this site"
+msgstr ""
+
+#: framework/includes/woo-functions.php:201
+msgid "Email"
+msgstr ""
+
+#: framework/includes/woo-functions.php:203
+msgid "Send to a friend"
+msgstr ""
+
+#. 1: average rating 2: max rating (i.e. 5)
+#: framework/includes/woo-functions.php:227
+#, php-format
+msgid "%1$s out of %2$s"
+msgstr ""
+
+#. %s: rating count
+#: framework/includes/woo-functions.php:238
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "Based on %s ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/includes/woo-functions.php:247
+msgid "write a preview"
+msgstr ""
+
+#: framework/includes/woo-functions.php:307
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: framework/includes/woo-functions.php:311
+msgid " Preview"
+msgstr ""
+
+#: framework/includes/woo-functions.php:313
+msgid " Previews"
+msgstr ""
+
+#: framework/includes/woo-functions.php:416
+msgid "Grid"
+msgstr ""
+
+#: framework/includes/woo-functions.php:422
+msgid "List"
+msgstr ""
+
+#: framework/includes/woo-functions.php:469
+msgid "05 per page"
+msgstr ""
+
+#: framework/includes/woo-functions.php:474
+msgid "10 per page"
+msgstr ""
+
+#: framework/includes/woo-functions.php:479
+msgid "15 per page"
+msgstr ""
+
+#: framework/includes/woo-functions.php:484
+msgid "20 per page"
+msgstr ""
+
+#: framework/includes/woo-functions.php:489
+msgid "25 per page"
+msgstr ""
+
+#: framework/includes/woo-functions.php:494
+msgid "30 per page"
+msgstr ""
+
+#: framework/includes/woo-functions.php:499
+msgid "35 per page"
+msgstr ""
+
+#: framework/includes/woo-functions.php:504
+msgid "40 per page"
+msgstr ""
+
+#: framework/includes/woo-functions.php:509
+msgid "45 per page"
+msgstr ""
+
+#: framework/includes/woo-functions.php:514
+msgid "50 per page"
+msgstr ""
+
+#: framework/includes/woo-functions.php:518
+msgid "Choose value ..."
+msgstr ""
+
+#: framework/includes/woo-functions.php:679
+msgid "Avaiability: "
+msgstr ""
+
+#: framework/includes/woo-functions.php:679
+#, php-format
+msgid "%s In Stock"
+msgstr ""
+
+#: framework/includes/woo-functions.php:679
+msgid "Out Of Stock"
+msgstr ""
+
+#: framework/includes/woo-functions.php:837
+#, php-format
+msgctxt "Item name in quotes"
+msgid "&ldquo;%s&rdquo;"
+msgstr ""
+
+#: framework/includes/woo-functions.php:837
+msgid "Item"
+msgstr ""
+
+#: framework/includes/woo-functions.php:840
+#: framework/includes/woo-functions.php:843
+#, php-format
+msgid "%s removed."
+msgstr ""
+
+#: framework/includes/woo-functions.php:841
+msgid "Undo?"
+msgstr ""
+
+#: framework/includes/woo-functions.php:848
+msgid "Security check error!"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:43
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:62
+#: woocommerce/single-product/product-image.php:113
+#: woocommerce/single-product/product-image.php:166
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/loop/new-flash.php:19
+msgid "New"
+msgstr ""
+
+#: templates/blog/blog-styles/content-blog-style-6.php:17
+#: templates/blog/blog-styles/content-blog-style-3.php:27
+#: templates/blog/blog-styles/content-blog-style-8.php:32
+#: templates/blog/blog-styles/content-blog-style-1.php:32
+msgid " [...]"
+msgstr ""
+
+#: templates/blog/blog-styles/content-blog-style-6.php:19
+msgid "Read More"
+msgstr ""
+
+#: templates/blog/blog-styles/content-blog-style-3.php:30
+msgid "View More"
+msgstr ""
+
+#: templates/blog/blog-styles/content-blog-style-5.php:34
+msgid "READ MORE"
+msgstr ""
+
+#: framework/includes/classes/breadcrumbs.php:248
+msgid "Browse:"
+msgstr ""
+
+#: framework/includes/classes/breadcrumbs.php:249
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: framework/includes/classes/breadcrumbs.php:250
+msgid "Home"
+msgstr ""
+
+#: framework/includes/classes/breadcrumbs.php:251
+msgid "404 Not Found"
+msgstr ""
+
+#: framework/includes/classes/breadcrumbs.php:252
+msgid "Archives"
+msgstr ""
+
+#. %s is the search query. The HTML entities are opening and closing curly quotes.
+#: framework/includes/classes/breadcrumbs.php:254
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#. %s is the page number.
+#: framework/includes/classes/breadcrumbs.php:256
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: framework/includes/classes/breadcrumbs.php:258
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: framework/includes/classes/breadcrumbs.php:260
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: framework/includes/classes/breadcrumbs.php:712
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: framework/includes/classes/breadcrumbs.php:729
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: framework/includes/classes/breadcrumbs.php:746
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: framework/includes/classes/breadcrumbs.php:762
+#: framework/includes/classes/breadcrumbs.php:791
+#: framework/includes/classes/breadcrumbs.php:818
+#: framework/includes/classes/breadcrumbs.php:845
+#: framework/includes/classes/breadcrumbs.php:1185
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: framework/includes/classes/breadcrumbs.php:763
+#: framework/includes/classes/breadcrumbs.php:819
+#: framework/includes/classes/breadcrumbs.php:1189
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: framework/includes/classes/breadcrumbs.php:764
+#: framework/includes/classes/breadcrumbs.php:1193
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: framework/includes/classes/breadcrumbs.php:792
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:19
+msgid "Icon Settings"
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:20
+msgid "None"
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:21
+msgid "Font icon"
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:22
+msgid "Image"
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:36
+msgid "Select Icon"
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:68
+#: framework/includes/megamenu/nav_menu_custom_fields.php:68
+msgid "Image preview"
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:70
+msgid "Icon Image "
+msgstr ""
+
+#: framework/includes/megamenu/nav_menu_custom_fields.php:76
+msgid "Mega menu settings"
+msgstr ""
+
+#: framework/includes/megamenu/walker.php:307
+msgid "Add a menu"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:89
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. %s: title of menu item in draft status
+#: framework/includes/megamenu/nav_edit_custom_walker.php:93
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:131
+msgid "sub item"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:147
+msgid "Move up"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:160
+msgid "Move down"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:163
+#: framework/includes/megamenu/nav_edit_custom_walker.php:165
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:173
+msgid "URL"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:183
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:192
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:204
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:209
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:218
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:227
+msgid "Description"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:232
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:238
+msgid "Move"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:239
+msgid "Up one"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:240
+msgid "Down one"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:243
+msgid "To the top"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:249
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:263
+msgid "Remove"
+msgstr ""
+
+#: framework/includes/megamenu/nav_edit_custom_walker.php:269
+msgid "Cancel"
+msgstr ""
+
+#: framework/includes/megamenu/megamenu.php:123
+msgid "Font Awesome"
+msgstr ""
+
+#: framework/includes/megamenu/megamenu.php:152
+msgid "No Font"
+msgstr ""
+
+#. Name of the theme
+msgid "Fastshop"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"fastshop Shop is a simple but modern responsive WordPress theme that oozes "
+"high-street sophistication. Its sharp lines and flat design style has been "
+"designed to be pixel perfect. Simply load your photography and you can have "
+"an online shop to matches the likes of Prada, Gucci and Yves St Laurent."
+msgstr ""
+
+#. URI of the theme
+msgid "http://fastshop.kutethemes.net/"
+msgstr ""
+
+#. Author of the theme
+msgid "Kutethemes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://kutethemes.com/"
+msgstr ""

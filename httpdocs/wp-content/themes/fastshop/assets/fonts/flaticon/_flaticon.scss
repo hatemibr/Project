@@ -1,0 +1,97 @@
+    /*
+    Flaticon icon font: Flaticon
+    Creation date: 21/08/2017 05:54
+    */
+
+    @font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+    .fi:before{
+        display: inline-block;
+  font-family: "Flaticon";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+    }
+
+    .flaticon-01search:before { content: "\f100"; }
+.flaticon-02arrows:before { content: "\f101"; }
+.flaticon-03wishlist:before { content: "\f102"; }
+.flaticon-04shopcart:before { content: "\f103"; }
+.flaticon-05menu:before { content: "\f104"; }
+.flaticon-06accessories:before { content: "\f105"; }
+.flaticon-07furniture:before { content: "\f106"; }
+.flaticon-08women-shoes:before { content: "\f107"; }
+.flaticon-09handbag:before { content: "\f108"; }
+.flaticon-10watch:before { content: "\f109"; }
+.flaticon-11sport-shoes:before { content: "\f10a"; }
+.flaticon-12clothes:before { content: "\f10b"; }
+.flaticon-13male-telemarketer:before { content: "\f10c"; }
+.flaticon-14credit-card-security:before { content: "\f10d"; }
+.flaticon-15return-of-investment:before { content: "\f10e"; }
+.flaticon-16transport:before { content: "\f10f"; }
+.flaticon-17grid:before { content: "\f110"; }
+.flaticon-18list:before { content: "\f111"; }
+.flaticon-19grid:before { content: "\f112"; }
+.flaticon-20shirt:before { content: "\f113"; }
+.flaticon-21sunglass:before { content: "\f114"; }
+.flaticon-22shoes:before { content: "\f115"; }
+.flaticon-23book:before { content: "\f116"; }
+.flaticon-24accessories:before { content: "\f117"; }
+.flaticon-25bag:before { content: "\f118"; }
+.flaticon-26check:before { content: "\f119"; }
+.flaticon-27arrows:before { content: "\f11a"; }
+.flaticon-28bag:before { content: "\f11b"; }
+.flaticon-29search:before { content: "\f11c"; }
+    
+    $font-Flaticon-01search: "\f100";
+    $font-Flaticon-02arrows: "\f101";
+    $font-Flaticon-03wishlist: "\f102";
+    $font-Flaticon-04shopcart: "\f103";
+    $font-Flaticon-05menu: "\f104";
+    $font-Flaticon-06accessories: "\f105";
+    $font-Flaticon-07furniture: "\f106";
+    $font-Flaticon-08women-shoes: "\f107";
+    $font-Flaticon-09handbag: "\f108";
+    $font-Flaticon-10watch: "\f109";
+    $font-Flaticon-11sport-shoes: "\f10a";
+    $font-Flaticon-12clothes: "\f10b";
+    $font-Flaticon-13male-telemarketer: "\f10c";
+    $font-Flaticon-14credit-card-security: "\f10d";
+    $font-Flaticon-15return-of-investment: "\f10e";
+    $font-Flaticon-16transport: "\f10f";
+    $font-Flaticon-17grid: "\f110";
+    $font-Flaticon-18list: "\f111";
+    $font-Flaticon-19grid: "\f112";
+    $font-Flaticon-20shirt: "\f113";
+    $font-Flaticon-21sunglass: "\f114";
+    $font-Flaticon-22shoes: "\f115";
+    $font-Flaticon-23book: "\f116";
+    $font-Flaticon-24accessories: "\f117";
+    $font-Flaticon-25bag: "\f118";
+    $font-Flaticon-26check: "\f119";
+    $font-Flaticon-27arrows: "\f11a";
+    $font-Flaticon-28bag: "\f11b";
+    $font-Flaticon-29search: "\f11c";
